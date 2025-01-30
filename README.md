@@ -18,7 +18,7 @@ The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-## Prework video
+## Lab 1 video
 
 Here's a walkthrough of implemented features:
 
